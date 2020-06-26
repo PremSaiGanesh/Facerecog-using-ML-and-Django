@@ -1,0 +1,1 @@
+web: gunicorn faceRecog.wsgi --log-file
